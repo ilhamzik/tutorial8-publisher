@@ -18,3 +18,6 @@ Kedua program terhubung pada server message broker yang sama, yaitu `RabbitMQ`. 
 ![image](https://github.com/ilhamzik/tutorial8-publisher/assets/124953758/2bbd33b9-33ec-4fc6-9dbc-d939b4350c03)
 
 ![image](https://github.com/ilhamzik/tutorial8-publisher/assets/124953758/9a5156b8-e1e4-4fd6-a3c8-7f73fa4feff9)
+
+![image](https://github.com/ilhamzik/tutorial8-publisher/assets/124953758/f57bb898-33ae-46aa-b25c-0e685a876386)
+
