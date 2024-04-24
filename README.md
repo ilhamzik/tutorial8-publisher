@@ -16,3 +16,5 @@ tiap line akan mengirimkan satu pesan ke queue `user_created`.
 Kedua program terhubung pada server message broker yang sama, yaitu `RabbitMQ`. Penggunaan URL yang sama pada publisher dan subscriber memungkinkan mereka untuk berkomunikasi melalui message broker RabbitMQ yang sama. Publisher mengirimkan pesan ke antrian "user_created", dan subscriber mendengarkan pada antrian yang sama untuk menerima pesan tersebut.
 
 ![image](https://github.com/ilhamzik/tutorial8-publisher/assets/124953758/2bbd33b9-33ec-4fc6-9dbc-d939b4350c03)
+
+![image](https://github.com/ilhamzik/tutorial8-publisher/assets/124953758/9a5156b8-e1e4-4fd6-a3c8-7f73fa4feff9)
