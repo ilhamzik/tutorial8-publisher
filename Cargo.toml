@@ -1,13 +1,15 @@
 [package]
-name = "publisher"
+name = "grpc-tutorial"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust- lang.org/cargo/reference/manifest.html
-[dependencies]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-crosstown_bus = "=0.5.0"
-futures = "0.3"
-borsh = "0.9.3"
-borsh-derive = "0.9.1"
-tokio = {version="1.21.2", features=["full"]}
+[dependencies]
+tonic = "0.7"
+prost = "0.10"
+tokio = { version = "1", features = ["full"] }
+tokio-stream = "0.1"
+
+[build-dependencies]
+tonic-build = "0.7"
